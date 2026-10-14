@@ -1,0 +1,14 @@
+python-dotenv
+langgraph
+langchain
+langchain-core
+langchain-classic
+langchain-openai
+langchain-huggingface
+langchain-text-splitters
+langchain-chroma
+chromadb
+sentence-transformers
+langchain-google-genai
+rank_bm25
+neo4j

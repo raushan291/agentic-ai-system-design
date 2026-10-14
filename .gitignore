@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# vscode
+.vscode/
+
+
+# Runtime state (vector store, memory, logs, skills)
+data/
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Poetry
+poetry.lock
+
+
+# Virtual environments
+.venv/
+venv/
+
+# logs
+logs/
+*.log
